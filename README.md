@@ -1,7 +1,2 @@
-# indecision-app
+# React Boiler Plate Version 1
 
-Configuation
-
-```
-yarn install
-```
