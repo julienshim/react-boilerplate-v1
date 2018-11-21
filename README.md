@@ -1,6 +1,6 @@
 # React Boiler Plate Version 1
 
-React Boiler Plate Version 1
+Lightweight Boilerplate for React Development with SCSS, Webpack, Babel 7.
 
 ## Dependencies
 
